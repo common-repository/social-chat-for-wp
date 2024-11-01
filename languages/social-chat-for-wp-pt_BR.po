@@ -1,0 +1,83 @@
+# Copyright (C) 2022 Social Chat for WP
+# This file is distributed under the same license as the Social Chat for WP package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Chat for WP 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/social-chat-for-"
+"wp\n"
+"POT-Creation-Date: 2022-09-27 16:40:36+00:00\n"
+"PO-Revision-Date: 2022-09-27 13:42-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.1.1\n"
+
+#: view/index-logged.php:32
+msgid "Logado como"
+msgstr "Logado como"
+
+#: view/index-not-logged.php:31
+msgid "Crie o seu botão de WhatsApp"
+msgstr "Crie o seu botão de WhatsApp"
+
+#: view/index-not-logged.php:32
+msgid "Complete as informações abaixo para instalar em seu site"
+msgstr "Complete as informações abaixo para instalar em seu site"
+
+#: view/index-not-logged.php:33
+msgid "Você pode usar uma conta existente ou criar uma nova nesta tela!"
+msgstr "Você pode usar uma conta existente ou criar uma nova nesta tela!"
+
+#: view/index-not-logged.php:40
+msgid "Nome"
+msgstr "Nome"
+
+#: view/index-not-logged.php:48
+msgid "Número Whatsapp (com ddd)"
+msgstr "Número Whatsapp (com ddd)"
+
+#: view/index-not-logged.php:55
+msgid "E-mail"
+msgstr "E-mail"
+
+#: view/index-not-logged.php:61
+msgid "Senha"
+msgstr "Senha"
+
+#: view/index-not-logged.php:67
+msgid ""
+"Sua senha deve conter pelo menos 6 caracteres, 1 letra maiúscula e um número."
+msgstr ""
+"Sua senha deve conter pelo menos 6 caracteres, 1 letra maiúscula e um número."
+
+#: view/index-not-logged.php:80
+msgid "Esqueci minha senha😯"
+msgstr "Esqueci minha senha😯"
+
+#. Plugin Name of the plugin/theme
+msgid "Social Chat for WP"
+msgstr "Social Chat for WP"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.greebox.com.br/"
+msgstr "https://www.greebox.com.br/"
+
+#. Description of the plugin/theme
+msgid ""
+"Customize e personalize o chat de WhatsApp e adicione no seu site em menos "
+"de 3 minutos. Combine WhatsApp, Instagram, chat e telefone em um botão só."
+msgstr ""
+"Customize e personalize o chat de WhatsApp e adicione no seu site em menos "
+"de 3 minutos. Combine WhatsApp, Instagram, chat e telefone em um botão só."
+
+#. Author of the plugin/theme
+msgid "Greebox"
+msgstr "Greebox"
+
+#. Author URI of the plugin/theme
+msgid "mailto:ola@greebox.com.br?subject=Plugin Greebox - WordPress"
+msgstr "mailto:ola@greebox.com.br?subject=Plugin Greebox - WordPress"
